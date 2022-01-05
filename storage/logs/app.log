@@ -1,3 +1,11 @@
 2022/01/05 14:38:20 {"callers":["/Users/chunbo/blog/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641364700149702000}
 2022/01/05 14:42:42 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641364962043589000}
 2022/01/05 15:14:48 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641366888133114000}
+2022/01/05 18:28:28 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641378508969955000}
+2022/01/05 18:28:50 {"callers":["/Users/chunbo/blog/internal/routers/v1/tag.go: 26 blog/internal/routers/v1.Tag.List"],"level":"fatal","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1641378530120103000}
+2022/01/05 18:29:17 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641378557829272000}
+2022/01/05 18:29:22 {"callers":["/Users/chunbo/blog/internal/routers/v1/tag.go: 26 blog/internal/routers/v1.Tag.List"],"level":"fatal","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1641378562089444000}
+2022/01/05 18:30:13 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641378613739080000}
+2022/01/05 18:30:26 {"callers":["/Users/chunbo/blog/internal/routers/v1/tag.go: 26 blog/internal/routers/v1.Tag.List"],"level":"fatal","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1641378626969265000}
+2022/01/05 18:32:44 {"callers":["/Users/chunbo/blog/main.go: 37 main.main"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1641378764825075000}
+2022/01/05 18:32:49 {"callers":["/Users/chunbo/blog/internal/routers/v1/tag.go: 26 blog/internal/routers/v1.Tag.List"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1641378769791950000}
